@@ -1,2 +1,2 @@
 # fish-project
-Proyecto de aplicación web para ofertar servicios de contratación de personal a empresas marítimas
+ Crear Boiler Plate del Proyecto final
